@@ -27,4 +27,4 @@
 ```bash
 git clone https://github.com/ReyNeo/ping_pong.git cd pong-game
 ```
-3. Запустите ping_pong.py
+2. Запустите ping_pong.py
