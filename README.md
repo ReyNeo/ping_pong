@@ -25,5 +25,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/pong-game.git
+git clone https://github.com/ReyNeo/pong-game.git
 cd pong-game
