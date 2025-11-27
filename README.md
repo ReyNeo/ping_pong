@@ -24,6 +24,5 @@
 ### Установка
 
 1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/ReyNeo/pong-game.git
-cd pong-game
+`bash git clone https://github.com/ReyNeo/ping_pong.git cd pong-game`
+2. Запустите ping_pong.py
